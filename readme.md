@@ -11,9 +11,9 @@ Dark, desert tones highlighted by pastel shades of mesa and pine forests. A colo
 
 **Main Course**
 
-[Hyper]()
+[Hyper](https://www.npmjs.com/package/hyper-sonoran-gothic)
 
-[VS Code]()
+[VS Code (Soon to come...)]()
 
 **Dessert**
 
