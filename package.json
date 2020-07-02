@@ -1,0 +1,26 @@
+{
+  "name": "hyper-sonoran-gothic",
+  "version": "1.0.0",
+  "description": "A color scheme for the Hyper terminal based off the SonoraBuild Minecraft server, with influence from hyper-rose-pine.",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "theme",
+    "ui",
+    "terminal",
+    "sonora",
+    "desert chic",
+    "dark theme",
+    "subtle",
+    "minimal"
+  ],
+  "author": "Devon M",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fvrests/hyper-rose-pine"
+  }
+}
