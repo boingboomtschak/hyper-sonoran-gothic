@@ -24,5 +24,33 @@ exports.decorateConfig = config =>
     cursorColor: "#eaf4de",
     selectionColor: "rgba(134, 129, 110, 0.3)",
     borderColor: "#0000",
-    colors
+    colors,
+	css: `
+	  	${config.css || ''}
+	  	.tab_tab {
+			background-color: #241F17;
+			color: #EAF4DE;
+		}
+	  	.tab_tab.tab_active {
+			background-color: #332C21;
+			color: #EAF4DE;
+			font-weight: bold;
+		}
+	  	.header {
+			color: #EAF4DE;
+		}
+	  	.header_appTitle {
+			color: #EAF4DE;
+		}
+	  	.tabs_title {
+			color: #EAF4DE;	
+		}
+	  	.tab_icon {
+			color: #EAF4DE;
+		}
+	  	.notifications_view * {
+			color: #EAF4DE;
+			background-color: #332C21;
+		}
+	  `
   });
