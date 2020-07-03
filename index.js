@@ -42,6 +42,9 @@ exports.decorateConfig = config =>
 	  	.header_appTitle {
 			color: #EAF4DE;
 		}
+		.header_shape {
+			color: #EAF4DE;	
+		}
 	  	.tabs_title {
 			color: #EAF4DE;	
 		}
@@ -50,7 +53,6 @@ exports.decorateConfig = config =>
 		}
 	  	.notifications_view * {
 			color: #EAF4DE;
-			background-color: #332C21;
 		}
 	  `
   });
